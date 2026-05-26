@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/kundanthakre/kundanthakre/main/kundan_thakre_github_banner.svg" alt="banner"/>
-
 # Hi 👋 I'm Kundan Thakre
 
 DevOps Engineer with 3.5+ years of experience in cloud infrastructure, CI/CD automation, system administration, and deployment management across AWS and Azure environments.
